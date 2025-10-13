@@ -8,3 +8,6 @@ This database was interesting to me because I am a senior that is about to gradu
 
 ## [Exploring My DataSet using R](Adv.-Data-Analysis.html)
 
+## [JavaScript Visualization](https://codepen.io/EpicNoob152/pen/pvgPpZO)
+For the visualization, I am using a bar graph to represent the how many different types of jobs and thier count. 
+
